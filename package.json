@@ -1,0 +1,39 @@
+{
+  "name": "react-era",
+  "version": "0.0.1",
+  "author": "Brian Espinosa <b@bje.co>",
+  "description": "A date and time picker for React.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianespinosa/react-era.git"
+  },
+  "contributors": [
+    "Brian Espinosa <b@bje.co>",
+    "Oswaldo Zavala <inucoder@gmail.com>"
+  ],
+  "keywords": [
+    "craft cms",
+    "portfolio"
+  ],
+  "private": true,
+  "engines": {
+    "node": "^0.12.x",
+    "npm": "^2.1.x"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "browser-sync": "^2.7.13",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.x",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-strip-css-comments": "^1.2.0",
+    "gulp-uglify": "^1.4.2"
+  },
+  "homepage": "https://github.com/brianespinosa/react-era"
+}
